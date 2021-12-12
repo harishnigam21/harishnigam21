@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harish Nigam</h1>
 <h3 align="center">As a full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Make_My_Home](https://github.com/harishnigam21/make_my_home.git)
+- 🔭 I’m currently working on [Make_My_Home](https://github.com/harishnigam21/make_my_home.git), [Logistics and account managing's tool](https://github.com/harishnigam21/LOGISTIC-ACCOUNTING-MANAGING-SITE.git), [Netsil](https://github.com/harishnigam21/Netsil.git) 
 
 - 🌱 I’m currently learning **as a full stack developer**
 
-- 👯 I’m looking to collaborate on [Netsil](https://github.com/harishnigam21/netsil.git)
+- 👯 I’m looking to collaborate on [Netsil](https://github.com/harishnigam21/Netsil.git)
 
 - 👨‍💻 All of my projects are available at [GitHub with id harishnigam21](GitHub with id harishnigam21)
 
